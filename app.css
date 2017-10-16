@@ -1,0 +1,14 @@
+body{
+background-color: rgba(0,0,0,0.15);
+}
+
+p,h3{
+    color: #3296A6;
+    font-size: 25px;
+}
+.clear-fix{
+    clear: both;
+}
+#game-canvas{
+    background-color: white;
+}
